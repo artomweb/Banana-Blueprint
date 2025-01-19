@@ -5,8 +5,8 @@ entrypoint = "lib.typ"
 authors = ["Archie Webster <https://github.com/artomweb>"]
 license = "MIT"
 description = "A template for creating A6 recipe cards."
-repository = "https://github.com/artomweb/Quick-Sip-Typst-Template"
-keywords = ["QRH", "aviation", "checklist"]
+repository = "https://github.com/artomweb/Banana-Blueprint"
+keywords = ["recipe", "printable", "banana"]
 categories = ["utility"]
 
 [template]

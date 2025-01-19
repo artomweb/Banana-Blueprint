@@ -19,6 +19,7 @@ A Typst template for recipes.
 Start with
 
 ```typst
+#import "@preview/banana-blueprint:0.1.0": *
 #show: recipes.with(date: true, blankPages: true)
 ```
 
